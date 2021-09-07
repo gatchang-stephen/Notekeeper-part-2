@@ -7,9 +7,13 @@ A
 local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+s
+Capp/src/main/java/com/example/notekeeper/gads2021/data/Constants.kt,d\f\df33a9e3aa93a5a1a0625e596a5982b7901da397
+x
+Happ/src/main/java/com/example/notekeeper/gads2021/data/NotekeeperData.kt,d\5\d5c88b879f0f19195bb80f9afb0adffcdb85de10
+u
+Eapp/src/main/java/com/example/notekeeper/gads2021/data/DataManager.kt,f\e\fec418b08021829922dd9bf9f3203d68109afadb
+t
+Dapp/src/main/java/com/example/notekeeper/gads2021/ui/NoteFragment.kt,e\4\e494064d140134d518b352daf4edf1c63d4e1081
+„
+Tapp/src/main/java/com/example/notekeeper/gads2021/adapter/NoteRecyclerViewAdapter.kt,4\a\4abfeecbeb32767251cff5c4ad3cfbc2afb795a7
