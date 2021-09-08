@@ -15,5 +15,9 @@ u
 Eapp/src/main/java/com/example/notekeeper/gads2021/data/DataManager.kt,f\e\fec418b08021829922dd9bf9f3203d68109afadb
 t
 Dapp/src/main/java/com/example/notekeeper/gads2021/ui/NoteFragment.kt,e\4\e494064d140134d518b352daf4edf1c63d4e1081
-„
-Tapp/src/main/java/com/example/notekeeper/gads2021/adapter/NoteRecyclerViewAdapter.kt,4\a\4abfeecbeb32767251cff5c4ad3cfbc2afb795a7
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+q
+Aapp/src/main/java/com/example/notekeeper/gads2021/MainActivity.kt,d\f\df5674cf9f30d8cc30e3ab8fd513e0e1e69bc490
